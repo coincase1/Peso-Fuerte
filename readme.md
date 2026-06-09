@@ -4,7 +4,7 @@
 
 *A short description of the keyboard/project*
 
-* Keyboard Maintainer: [Kyle Sleggs](https://github.com/coincase1)
+* Keyboard Maintainer: (https://github.com/coincase1)
 * Hardware Supported: *The PCBs, controllers supported*
 * Hardware Availability: *Links to where you can find this hardware*
 
